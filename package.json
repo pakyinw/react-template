@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/pakyinw/react-template/issues"
   },
-  "homepage": "https://github.com/pakyinw/react-template#readme"
+  "homepage": "https://github.com/pakyinw/react-template#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "typescript": "^4.7.4"
+  }
 }
