@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/pakyinw/react-template#readme",
   "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/plugin-transform-runtime": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@babel/runtime": "^7.18.9",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "typescript": "^4.7.4"
