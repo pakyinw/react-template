@@ -21,3 +21,7 @@ This repo is built based on the above blog entry. However, there are some typos 
    ```sh
    npm i -D copy-webpack-plugin
    ```
+
+## Testing
+
+The above blog entry doesn't include testing framework. Therefore we install ourselves.
